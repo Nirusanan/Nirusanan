@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nirusanan</h1>
-<h3 align="center">I'm a Student, Web Developer and Software Engineer</h3>
+<h3 align="center">I'm a GenAI enthusiast, Web Developer and Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirusanan&label=Profile%20views&color=0e75b6&style=flat" alt="nirusanan" /> </p>
 
-- 🎓 I’m a undergraduate at **<a href="https://www.sab.ac.lk/" target="_blank">Sabaragamuwa University of Srilanka</a>**
+- 🎓 I’m a graduate from **<a href="https://www.sab.ac.lk/" target="_blank">Sabaragamuwa University of Srilanka</a>**
 
 - 👯 I’m looking to collaborate on **Software developers**
 
-- 💻 I'm currently working on Agam Technologies (pvt).LTD 👍
+- 💻 Former Intern at Agam Technologies (pvt).LTD 👍
 
-- 💬 Ask me about **Python,MERN,Laravel**
+- 💬 Ask me about **Python, MERN, Laravel**
 
 - 📫 How to reach me.. Mail: **nirusanant97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nirusanan-thavachelvam-6299ba243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirusanan-thavachelvam-6299ba243/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nirusanan-thavachelvam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirusanan-thavachelvam/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
